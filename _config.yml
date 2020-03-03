@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://jacky.github.io"
+url: ""
 
 # THEME-SPECIFIC CONFIGURATION
 title: Jacky Me                    # site's title
